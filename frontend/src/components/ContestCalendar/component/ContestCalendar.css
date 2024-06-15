@@ -1,0 +1,28 @@
+.contest-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contest-item h3 {
+    margin: 0 0 10px 0;
+    color: #333;
+}
+
+.contest-item p {
+    margin: 0 0 10px 0;
+    color: #666;
+}
+
+.contest-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contest-item a:hover {
+    text-decoration: underline;
+}
